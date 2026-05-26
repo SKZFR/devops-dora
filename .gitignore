@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.pem
+*.pub
+id_ed25519
