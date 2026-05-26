@@ -2,6 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .env
-*.pem
-*.pub
 id_ed25519
+id_ed25519.pub
